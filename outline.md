@@ -26,5 +26,5 @@
 
 ## Hiera 
 
-* the secret sauce in the motar
+* the secret sauce in the mortar
 * Allows you to share mortar modules for feedback and example usage
