@@ -1,11 +1,10 @@
-# Osbridge 2012 - Puppet Brick and Mortar modules
+# Osbridge 2012 - Puppet Modules: A Brick and Mortar Pattern
 
 * This is the evolved version of the last two BeaverBarCamp presentations titled "Puppet Sucks, Use Puppet"
 
-## Stop Writing Puppet Modules That Suck
+## Influenced by
 
-* Tim Sharpe
-* http://bombasticmonkey.com/2011/12/27/stop-writing-puppet-modules-that-suck/
+* Tim Sharpe: http://bombasticmonkey.com/2011/12/27/stop-writing-puppet-modules-that-suck/
 
 ## Brick modules
 
