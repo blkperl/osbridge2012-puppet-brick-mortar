@@ -8,21 +8,23 @@
 
 ## Brick modules
 
-* reusable, sharable unit of code
+* reusable, sharable units of code
 * takes input produces output
 * not specific to your organization or site
 * black box
 * sane defaults, should be able to override
 * should be able to support multiple operatingsystems
 * don't revinvent the wheel
-* optional: tests, github, forge
+* should follow the puppet style guide / pass puppet lint
+* optional: spec tests, smoke tests, github, puppet forge
 
 ## Mortar modules
 
 * configuration specific to your organization
 * should leverage brick modules
+* brings together the components of a "role"
 
 ## Hiera 
 
 * the secret sauce in the motar
-* use hiera so can give access to the mortar modules to trusted users
+* Allows you to share mortar modules for feedback and example usage
